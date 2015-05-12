@@ -45,7 +45,7 @@ Bonus
 
 1. First Iteration Map Step
 
-^The mapper initially generates all first degree connections from the input pairs (forward and backward).
+The mapper initially generates all first degree connections from the input pairs (forward and backward).
 
 2. First Iteration Sort Step
 
